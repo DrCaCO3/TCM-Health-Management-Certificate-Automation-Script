@@ -1,4 +1,4 @@
-# TCM-Health-Management-Certificate-Automation-Script
+# 中医健康管理证书自动脚本
 留给后人的小小帮助
 7倍速播放+自动连播
 写在前面
