@@ -241,6 +241,8 @@ Ps: 如果你只需要倍速播放只需要安装 Global Speed: 视频速度控�
     watchVideo(send, false);
   }
 })();
+[Uploading 自动连播脚本.txt…]()
+
 # 结语
 希望能帮上有需求的人
 26.08.25.07.05
